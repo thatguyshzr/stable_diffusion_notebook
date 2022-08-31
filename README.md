@@ -1,5 +1,7 @@
 # Stable Diffusion Colab Notebook
 
+Open notebook in colab here: https://githubtocolab.com/thatguyshzr/stable_diffusion_notebook
+
 ## What you'll need:
 - A google account
 - An account on https://huggingface.co
